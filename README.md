@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himan10
+- 👋 Hi, I’m Himan
 - 👀 I’m interested in Cyber Security, Programming and Automation. 
 - 🌱 I’m currently learning web application security on PortSwigger and TryHackMe
 - 💞️ I’m looking to collaborate on Networking related projects for beginners or intermediate as well
