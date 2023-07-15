@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="mailto:recipient@example.com">
+  <a href="mailto:h3c.initiative46@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
