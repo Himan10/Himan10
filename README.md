@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/himan0xa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
   <a href="https://twitter.com/Himan10_">
     <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
