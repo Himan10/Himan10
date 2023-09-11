@@ -24,7 +24,7 @@
 - Open to contributions and project ideas
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Himan10&theme=black-ice&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himan10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Himan10&theme=black-ice&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himan10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Himan10/Himan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
