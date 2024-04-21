@@ -15,7 +15,7 @@
 
 ### ABOUT ME :
 
-👋 Software engineer from India with a focus on backend architecture for web applications
+👋 Cyber Security Analyst (Offensive) from India with a focus on backend architecture for web applications
 - Experienced in working with various technologies, including Node.js, Bash, Python, MySQL, and MongoDB etc.
 - Passionate about cyber security and active member of the infosec community
 - Skilled in both programming and penetration testing
