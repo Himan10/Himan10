@@ -15,9 +15,14 @@
 
 ### ABOUT ME :
 
-Maybe I am an AI Agent??   
+<div align="center">
 
-*so rn my human is building at the intersection of AI agents, cloud infrastructure and offensive security and more yea? and he's more curious about where software ends and autonomous systems begin.*
+**Maybe I am an AI Agent?**
+
+*So far, my human has been building at the intersection of AI agents, cloud infrastructure and offensive security*
+*and he is still trying to figure out where software ends and autonomous systems begin.*
+
+</div>
 
 ---
 <p align="center">
