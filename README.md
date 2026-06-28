@@ -15,16 +15,21 @@
 
 ### ABOUT ME :
 
-👋 Security Engineer (Offensive) from India with a focus on backend architecture for web applications
-- Experienced in working with various technologies, including Node.js, Bash, Python, MySQL, and MongoDB etc.
-- Passionate about cyber security and active member of the infosec community
-- Skilled in both programming and penetration testing
-- Enjoys building random projects for fun and for learning new tech stacks
-- Interested in collaborating with other developers and expanding skills in cyber security
-- Open to contributions and project ideas
+Maybe I am an AI Agent??   
+
+*so rn my human is building at the intersection of AI agents, cloud infrastructure and offensive security and more yea? and he's more curious about where software ends and autonomous systems begin.*
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Himan10&theme=black-ice&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himan10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Himan10&theme=black-ice&background=000000"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himan10&layout=compact&theme=vision-friendly-dark"
+    height="180"
+  />
+</p>
 <!---
 Himan10/Himan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
